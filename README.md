@@ -43,8 +43,14 @@ The repository is organized as follows:
 ├── PwC Swiss_Nguyen Khoi Nguyen Pham_Churn rate analysis #The main Power BI file
 ├── data/: For sample data or data dictionaries
 │ └── 02 Churn-Dataset.csv 
+├── dax/ : For dax script including measures
+| └── 
 ├── images/: For screenshots of your dashboard
 │ └── PwC Swiss_Data Analysis by PBI_Nguyen Khoi Nguyen Pham-08.png
-| └── PwC Swiss_Data Analysis by PBI_Nguyen Khoi Nguyen Pham-09.png 
+| └── PwC Swiss_Data Analysis by PBI_Nguyen Khoi Nguyen Pham-09.png
+| └── Create the dynamic Churning ratio.png
+| └── Create the tables for static segmentation.png
+| └── Table of monthly charge.png
+| └── Table of total charge.png 
 ├── .gitignore # Specifies intentionally untracked files
 └── README.md # This file!```
