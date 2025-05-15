@@ -44,7 +44,7 @@ The repository is organized as follows:
 ├── data/: For sample data or data dictionaries
 │ └── 02 Churn-Dataset.csv 
 ├── dax/ : For dax script including measures
-| └── 
+| └── dax_measures and logics.md
 ├── images/: For screenshots of your dashboard
 │ └── PwC Swiss_Data Analysis by PBI_Nguyen Khoi Nguyen Pham-08.png
 | └── PwC Swiss_Data Analysis by PBI_Nguyen Khoi Nguyen Pham-09.png
