@@ -3,6 +3,7 @@
 **Author:** NGUYEN PHAM
 **Date:** May 14, 2025
 **Contact:** nguyen.pham961309@gmail.com | [https://www.linkedin.com/in/khoinguyenpham/]
+You can find the detail work and analysis [here in my blog](https://nguyenphamdp1309.com/customer-analysis-how-can-we-target-right/)
 
 ---
 
