@@ -12,7 +12,7 @@ This document outlines the structure of the Churn analysis project. **Click the 
 1.  [**Introduction & Objectives**](#1-introduction--objectives)
 2.  [**Data Sources**](#2-data-sources)
 3.  [**Tools & Technologies Used**](#3-tools--technologies-used)
-4.  [**Dashboard creation images**]()
+4.  [**Dashboard creation images**](#4-dashboard-creation-images-from-power-bi)
 ---
 
 ## 1. Introduction & Objectives
