@@ -86,7 +86,7 @@ I came up with the idea to transform them into a range of charge fees. It is usu
 
 * **Step 1**: Create the table with the defined range for the needed values
 ![Monthly charge](https://github.com/NguyenPham1309/Power-BI_Churn-analysis-project/blob/main/images/Table%20of%20monthly%20charge.png)
-![Total charges](https://github.com/NguyenPham1309/Power-BI_Churn-analysis-project/blob/main/images/Table%20of%20total%20charge.png
+![Total charges](https://github.com/NguyenPham1309/Power-BI_Churn-analysis-project/blob/main/images/Table%20of%20total%20charge.png)
 
 * **Step 2**: Create the foreign key in the original table to connect with the table of defined range. I break through small steps.
 * When scanning each charge record in the column Monthly Charges/Total Charges, it needs to be compared with the Min Charge/Max Charge column in the new range table.
